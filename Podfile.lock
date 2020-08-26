@@ -1,0 +1,26 @@
+PODS:
+  - Realm (5.3.4):
+    - Realm/Headers (= 5.3.4)
+  - Realm/Headers (5.3.4)
+  - RealmSwift (5.3.4):
+    - Realm (= 5.3.4)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  Realm: 4dd457b6ed025041cf7efe05dae78c027ba842e0
+  RealmSwift: 233af88fffe05ed7f9305eecef100d477c0c2c42
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: 059fe906db2fcdb419c48dc83b73ef1cc18c6b25
+
+COCOAPODS: 1.9.3
